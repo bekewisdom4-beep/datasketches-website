@@ -5,8 +5,9 @@
         {"class":"Doc",  "desc" : "The Challenge",                "dir" : "Background", "file": "TheChallenge" },
         {"class":"Doc",  "desc" : "Sketch Origins",               "dir" : "Background", "file": "SketchOrigins" },
         {"class":"Doc",  "desc" : "Sketch Elements",              "dir" : "Background", "file": "SketchElements" },
+        {"class":"Doc",  "desc" : "Anatomy of Error",             "dir" : "", "file": "AnatomyOfError_13Jan2026", "pdf":"true" },
         {"class":"Doc",  "desc" : "Presentations",                "dir" : "Background", "file": "Presentations" },
-        {"class":"Doc",  "desc" : "Overview Slide Deck",          "dir" : "", "file": "DataSketches_deck", "pdf":"true" },
+        {"class":"Doc",  "desc" : "Overview Slide Deck",          "dir" : "", "file": "DataSketches_13Mar2025", "pdf":"true" },
       ]
     },
 
@@ -19,6 +20,7 @@
         {"class":"Doc",  "desc" : "Components",                "dir" : "Architecture", "file": "Components" },
         {"class":"Doc",  "desc" : "Sketches by Component",     "dir" : "Architecture", "file": "SketchesByComponent" },
         {"class":"Doc",  "desc" : "Sketch Criteria",           "dir" : "Architecture", "file": "SketchCriteria" },
+        {"class":"Doc",  "desc" : "Three Powerful Sketches",   "dir" : "", "file": "ThreePowerfulSketches_13Jan2026", "pdf":"true" },
         { "class":"Dropdown", "desc" : "Memory Component", "array":
           [
             {"class":"Doc",  "desc" : "Memory Component",              "dir" : "Memory", "file": "MemoryComponent" },

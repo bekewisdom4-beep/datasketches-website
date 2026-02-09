@@ -26,7 +26,7 @@ Our library is made up of multiple components that are partitioned into GitHub r
 
 If you have a specific issue or bug report that impacts only one of these components please open an issue on the respective component. If you are a developer and wish to submit a PR, please choose the appropriate repository.
 
-If you like what you see give us a **Star** on these sites!
+If you like what you see, give us a **Star** on these sites!
 
 ## Core Sketch Libraries
 The key sketches of the Apache DataSketches libraries are available in four (soon five) programming languages.  By design, a sketch that is available in one language that is also available in a different language will be "binary compatible" via serialization.  For example, when serialized into its compact form, a sketch created by the DataSketches C++ library, can be read by the DataSketches Java library and visa versa.

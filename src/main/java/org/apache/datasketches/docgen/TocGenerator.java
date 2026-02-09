@@ -42,7 +42,6 @@ public class TocGenerator {
   private static final String defaultJsonSrcFile = "src/main/resources/docgen/toc.json";
   private static final String defaultTgtTocFile = "_includes/toc.html";
   
-  
   TocGenerator() {} //needed for TestNG
 
   /**
@@ -73,7 +72,6 @@ public class TocGenerator {
       final TocGenerator tocgen = new TocGenerator(defaultJsonSrcFile, defaultTgtTocFile);
       tocgen.readJson();
     }
-    
     
   /**
    * Execute the runTocGenerator above.
